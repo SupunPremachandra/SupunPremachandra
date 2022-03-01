@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SupunPremachandra , Undergraduate at SLIIT.
-RegNo : IT20638740
-UserName : SupunPremachandra 
+- RegNo : IT20638740
+- UserName : SupunPremachandra 
 
 
 <!---
