@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SupunPremachandra
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on programmers
+- 👋 Hi, I’m @SupunPremachandra , Undergraduate at SLIIT.
+RegNo : IT20638740
+UserName : SupunPremachandra 
 
 
 <!---
